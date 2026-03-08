@@ -1,9 +1,10 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
-
-
-
-
+http://129.211.14.102:50085/sub?7pVBnFZv=txt
+https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt
+https://raw.githubusercontent.com/zqhtym/zqhtym.github.io/refs/heads/main/JG.txt
+https://github.moeyy.xyz/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt
+https://d.h6room.com/frjzb.txt
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
